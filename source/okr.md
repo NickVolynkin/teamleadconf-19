@@ -1,7 +1,7 @@
 <p align="right">
 <img src = "./static/tlc.jpg" width="20px" height=20px"> <a href = "https://teamleadconf.ru">TeamLeadConf</a>
 <img src = "./static/kc.png" width="20px" height=20px"> <a href = "https://knowledgeconf.ru">KnowledgeConf</a>
-<img src = "./static/tg.png" width="20px" height=20px"> <a href = "https://t.me/docops">DocOps</a>
+<img src = "./static/tg.png" width="20px" height=20px"> <a href = "https://t.me/docops">@docops</a>
 </p>
 
 # OKR: инструкция по применению
@@ -105,7 +105,7 @@ OKR — система целеполагания, которая выстра�
 
 Например, так: 
 
-![]
+![](./static/okr1.png)
 
 ## Objectives
 
